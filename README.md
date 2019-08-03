@@ -237,3 +237,5 @@ According to the license agreement, the product keys for retail edition of XP ca
 
 // Prompts //
 Before installing Windows XP, do not forget to record the serial numbers on a piece of paper or use your smartphone to shoot it down!
+
+All Rights Reserved © [AppNee Freeware Group.](https://web.archive.org/web/20190709202518/https://appnee.com/windows-xp-all-editions-universal-product-keys-collection/)

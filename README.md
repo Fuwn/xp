@@ -1,12 +1,12 @@
 ![](./assets/Windows-XP-All-Editions-Universal-Product-Keys-collection-1.png/)
 
-Although Microsoft does not support Windows XP updates any more, I’m sure there are still many users using it due to their personal habits or job demands. Therefore XP’s product keys may be necessary even now, and AppNee provided you with the most comprehensive Windows XP product keys here, just in order to provide some convenience.
+Although Microsoft does not support Windows XP updates any more, I’m sure there are still many users using it due to their personal habits or job demands. Therefore XP’s product keys may be necessary even now, and AppNee provided you with the most comprehensive [Windows XP product](https://github.com/s1nical/xp/) keys here, just in order to provide some convenience.
 
 The following CD-KEYs are official and original from Microsoft, mainly used for Windows XP Professional Service Pack 2/3 VOL/VLK system images which are the easiest ones to find on the Internet. Their biggest advantage is your Windows XP will be activated after using these CD-KEYs to complete installation.
 
 ![](./assets/Windows-XP-All-Editions-Universal-Product-Keys-collection-2.png/)
 
-// Windows XP Pro Product Keys //
+**// Windows XP Pro Product Keys //**
 
 # Windows XP Professional 32-bit Edition
 
@@ -228,14 +228,14 @@ DRYCH-Q9RY7-YH62D-K98QM-KCGQ8
 - BMHW2-GR289-D3PR9-JQF6P-YPQJM
 - DB8YF-HTGKP-6C948-3BHYD-PH2PB
 
-// What’s VOL and VLK //
-VOL (short for Volume Licensing for Organizations, AKA: VL), any Windows OS setup CD/DVD or image file with “VOL” word, that indicates it is one of the licensed Windows copies. And the most important point thing is – according to the regulations of VOL plans, VOL licensed products don’t need to activate at all.
+**// What’s VOL and VLK //**
+VOL (short for **V**olume Licensing for Organizations, AKA: VL), any Windows OS setup CD/DVD or image file with “VOL” word, that indicates it is one of the licensed Windows copies. And the most important point thing is – according to the regulations of VOL plans, VOL licensed products don’t need to activate at all.
 
-VLK (short for Volume Licensing Key) does refer to the product key required in the VOL edition’s deployment rather than the edition name. And it’s only suitable for VOL edition with the only effect – prove the product is legal, licensed under VOL.
+VLK (short for **V**olume **L**icensing **K**ey) does refer to the product key required in the VOL edition’s deployment rather than the edition name. And it’s only suitable for VOL edition with the only effect – prove the product is legal, licensed under VOL.
 
 According to the license agreement, the product keys for retail edition of XP can only be used on one PC, but the ones for VOL edition can be supplied for more PCs to use. Second, there is another important difference, the retail edition of XP needs to activate, yet VOLs don’t have this concept totally. Last, VOL edition of XP doesn’t have the Home Edition, and its function is exactly the same with the Professional Edition.
 
-// Prompts //
+**// Prompts //**
 Before installing Windows XP, do not forget to record the serial numbers on a piece of paper or use your smartphone to shoot it down!
 
 All Rights Reserved © [AppNee Freeware Group.](https://web.archive.org/web/20190709202518/https://appnee.com/windows-xp-all-editions-universal-product-keys-collection/)

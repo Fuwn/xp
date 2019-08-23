@@ -1,6 +1,6 @@
 ![](./assets/Windows-XP-All-Editions-Universal-Product-Keys-collection-1.png/)
 
-Although Microsoft does not support Windows XP updates any more, I’m sure there are still many users using it due to their personal habits or job demands. Therefore XP’s product keys may be necessary even now, and s1nical provided you with the most comprehensive [Windows XP product](https://github.com/s1nical/xp/) keys here, just in order to provide some convenience.
+Although Microsoft does not support Windows XP updates any more, I’m sure there are still many users using it due to their personal habits or job demands. Therefore XP’s product keys may be necessary even now, and 8cy provided you with the most comprehensive [Windows XP product](https://github.com/8cy/xp/) keys here, just in order to provide some convenience.
 
 The following CD-KEYs are official and original from Microsoft, mainly used for Windows XP Professional Service Pack 2/3 VOL/VLK system images which are the easiest ones to find on the Internet. Their biggest advantage is your Windows XP will be activated after using these CD-KEYs to complete installation.
 

@@ -228,6 +228,22 @@ DRYCH-Q9RY7-YH62D-K98QM-KCGQ8
 - BMHW2-GR289-D3PR9-JQF6P-YPQJM
 - DB8YF-HTGKP-6C948-3BHYD-PH2PB
 
+# Windows XP Home Edition x86
+These may work, but the following is recommended after installation:
+* Don't be connected to the internet until you do the following step.
+* Follow this video: https://www.youtube.com/watch?v=nTL2c6FSO68 (The person editing this assumes you have another device because GitHub probably doesn't work on XP)
+* Check activation again.
+
+- JT42G-DDBCX-WTDMB-8WCT2-JGGH8
+- V7BWD-G9YR6-9FG87-8Q2HV-YJGTG
+- PW6PT-TCGBR-HKTCT-GKKY6-QGK86
+- MT8JF-T82RK-R6C82-3YGHH-224PP
+- G7BR9-8QV29-3QFHP-F84WG-X9PYQ
+- XYRYX-XCG6K-W7PK8-2CTQQ-86DWR
+- VTYH4-P88R2-MW38B-Q62KT-48F7Y
+- MY7CJ-VQWBC-36JWH-6CJ37-TQVHC
+- XMCM6-DKYCQ-2BHQH-4PCHR-TBJCR
+
 **// What’s VOL and VLK //**
 
 VOL (short for **V**olume Licensing for Organizations, AKA: VL), any Windows OS setup CD/DVD or image file with “VOL” word, that indicates it is one of the licensed Windows copies. And the most important point thing is – according to the regulations of VOL plans, VOL licensed products don’t need to activate at all.

@@ -1,29 +1,27 @@
-![](./assets/Windows-XP-All-Editions-Universal-Product-Keys-collection-1.png/)
+![Windows XP Logo](./assets/logo.png)
 
-Although Microsoft does not support Windows XP updates any more, I’m sure there are still many users using it due to their personal habits or job demands. Therefore XP’s product keys may be necessary even now, and Fuwn provided you with the most comprehensive [Windows XP product](https://github.com/Fuwn/xp/) keys here, just in order to provide some convenience.
+Although Microsoft does not support Windows XP updates any more, I'm sure there
+are still many users using it due to their personal habits or job demands.
+Therefore, XP's product keys may be necessary even now. Here lies the most
+comprehensive list of Windows XP product keys.
 
-The following CD-KEYs are official and original from Microsoft, mainly used for Windows XP Professional Service Pack 2/3 VOL/VLK system images which are the easiest ones to find on the Internet. Their biggest advantage is your Windows XP will be activated after using these CD-KEYs to complete installation.
+The following CD keys are official and original from Microsoft, mainly used for
+Windows XP Professional Service Pack 2/3 VOL/VLK system images, which are the
+easiest ones to find on the Internet.
 
-![](./assets/Windows-XP-All-Editions-Universal-Product-Keys-collection-2.png/)
-
-**// Windows XP Pro Product Keys //**
+![Windows XP Setup](./assets/setup.jpg)
 
 # Windows XP Professional 32-bit Edition
 
-### SP3 VOL
+## SP3 VOL
+
 M6TF9-8XQ2M-YQK9F-7TBB2-XGG88
 
-### SP3 VOL
 MRX3F-47B9T-2487J-KWKMF-RPWBY
 
-### SP3 VOL
 QC986-27D34-6M3TY-JJXP9-TBGMD
 
-### SP3 VLK
-TQMCY-42MBK-3R4YG-478KD-7FY3M 
-
-### SP3 VOL	
-- CM3HY-26VYW-6JRYC-X66GX-JVY2D 
+- CM3HY-26VYW-6JRYC-X66GX-JVY2D
 - DP7CM-PD6MC-6BKXT-M8JJ6-RPXGJ
 - F4297-RCWJP-P482C-YY23Y-XH8W3
 - HH7VV-6P3G9-82TWK-QKJJ3-MXR96
@@ -35,7 +33,10 @@ TQMCY-42MBK-3R4YG-478KD-7FY3M
 - CM3HY-26VYW-6JRYC-X66GX-JVY2D
 - T72KM-6GWBP-GX7TD-CXFT2-7WT2B
 
-### SP3 VLK	
+## SP3 VLK
+
+TQMCY-42MBK-3R4YG-478KD-7FY3M
+
 - DG8FV-B9TKY-FRT9J-6CRCC-XPQ4G
 - RFYPJ-BKXH2-26FWP-WB6MT-CYH2Y
 - 7HPVP-8VHPV-G7CQ3-BTK2R-TDRF3
@@ -45,81 +46,106 @@ TQMCY-42MBK-3R4YG-478KD-7FY3M
 - T44H2-BM3G7-J4CQR-MPDRM-BWFWM
 - XW6Q2-MP4HK-GXFK3-KPGG4-GM36T
 
-### SP3 VOL MSDN
+## SP3 VOL MSDN
+
 MRX3F-47B9T-2487J-KWKMF-RPWBY
 
-### SP3 HP
+## SP3 HP
+
 P2BXT-D7Y8P-F6WF2-HYXY9-49TJD
 
-### SP3 OEM SONY
+## SP3 OEM SONY
+
 K7RGC-CDXYJ-FTYH2-Y3VVV-KBYC7
 
-### SP3 IBM
+## SP3 IBM
+
 TW8WB-MKT89-FRD3V-H6CGJ-6JW83
 
-### ACER
+## ACER
+
 KDD3G-HGVGM-M24P4-6BMMY-9XHF8
 
-### DELL
+## DELL
+
 KG7G9-67KHV-4FQKV-4DYXK-BHQTJ
 
-### LENOVO
+## LENOVO
+
 VF4HT-MPWB8-TWV6R-K6QM4-W6JCM
 
-### SP3 OEM THTF
+## SP3 OEM THTF
+
 M68XC-TX2C9-PKK8H-GP8JH-RC8XB
 
-### SP3 OEM COMPAQ
+## SP3 OEM COMPAQ
+
 KYKVX-86GQG-2MDY9-F6J9M-K42BQ
 
-### FUJITSU OEM
+## FUJITSU OEM
+
 C873T-F3X3M-9F6TR-J26GM-YTKKD
 
-### Pro SP3 OEM FOUNDER
+## Pro SP3 OEM FOUNDER
+
 F4G2M-BH2JF-GTGJW-W82HY-VMRRQ
 
-### Home SP3 OEM FOUNDER
+## Home SP3 OEM FOUNDER
+
 K72PX-D96QW-RCHB9-3P96F-YQBCY
 
-### Home OEM Haier
+## Home OEM Haier
+
 GYFDM-KCXHW-6GFGQ-JQ9FH-B4TRY
 
-### SP2 OEM HP
+## SP2 OEM HP
+
 P2BXT-D7Y8P-F6WF2-HYXYP-49TJD
 
-### Home OEM
+## Home OEM
+
 JQ4T4-8VM63-6WFBK-KTT29-V8966
 
-### Home Retail
+## Home Retail
+
 RH6M6-7PPK4-YR86H-YFFFX-PW8M8
 
-### Media Center	
+## Media Center
+
 - C4BH3-P4J7W-9MT6X-PGKC8-J4JTM
 - B2Y39-43MG6-MMGRG-7VKCF-VXMCM
 
-### Professional Corp
+## Professional Corp
+
 XP8BF-F8HPF-PY6BX-K24PJ-TWT6M
 
-### Professional OEM
+## Professional OEM
+
 - XJM6Q-BQ8HW-T6DFB-Y934T-YD4YT
 - WRKF9-4FQ88-XTQYB-8KV6J-7TJR8
 
-### Professional Retail
+## Professional Retail
+
 CD87T-HFP4C-V7X7H-8VY68-W7D7M
 
-### Professional SP2 VOL
+## Professional SP2 VOL
+
 CCMWP-99T99-KCY96-FGKBW-F9WJT
 
-### Plus!
+## Plus
+
 DMC3M-2PD9R-9F8RY-KCKYC-JPXWM
 
-### Windows Server 2003 VOL
+## Windows Server 2003 VOL
+
 KJTHV-V4BVY-6R9JK-YJM7X-X7FDY
 
-### Office 2003 VOL
+## Office 2003 VOL
+
 GWH28-DGCMP-P6RC4-6J4MT-3HFDY
 
-### SP3	
+## SP3
+
 - V2C47-MK7JD-3R89F-D2KXW-VPK3J
 - T7C4Q-47VGM-R7J6B-VPJ84-JPJ93
 - FY32F-XF3B6-277BF-YWBQF-GVRX3
@@ -143,7 +169,8 @@ GWH28-DGCMP-P6RC4-6J4MT-3HFDY
 - WHTKJL-RDHF8-7TG64-5ES42-76RY4
 - 23YU7-65RK0-HEVJK-SDAGI-OP265
 
-### SP2	
+## SP2
+
 - KLSDJ-FERIO-UT843-U8JF8-43Y84
 - 93UJF-KDSIU-YT78Y-SDKJF-IOEWJ
 - FIOSD-FUHY7-ERTY7-843UR-OEJFK
@@ -156,7 +183,8 @@ GWH28-DGCMP-P6RC4-6J4MT-3HFDY
 - UIT89-0432U-Y0UTD-JSMCF-KLASD
 - HIUWE-Y4I78-34U5T-98234-U782T
 
-### Unknown	
+## Unknown
+
 - JJWKH-7M9R8-26VM4-FX8CC-GDPD8
 - Q3R8Y-MP9KD-3M6KB-383YB-7PK9Q
 - QB2BW-8PJ2D-9X7JK-BCCRT-D233Y
@@ -174,33 +202,26 @@ GWH28-DGCMP-P6RC4-6J4MT-3HFDY
 
 # Windows XP Professional 64-bit Edition
 
-### SP2 VOL	
+## SP2 VOL
+
 - B66VY-4D94T-TPPD4-43F72-8X4FY
 - VCFQD-V9FX9-46WVH-K3CD4-4J3JM
 
-### SP2 VOL
 WBD2T-3V7TW-GWJW6-HC6CK-R7MBJ
 
-### SP2 VOL
 WPH7P-DQMY8-97MWQ-Y26V7-3C4HM
 
-### SP2 VOL	
 - M4733-B8WX6-G999M-P3YR6-TDYVM
 - PFC3B-RTB4W-F3Q44-JWQQR-447BB
 
-### SP2 VOL
 HH7VV-6P3G9-82TWK-QKJJ3-MXR96
 
-### SP2 VOL
 F4297-RCWJP-P482C-YY23Y-XH8W3
 
-### SP2 VOL
 MRX3F-47B9T-2487J-KWKMF-RPWBY
 
-### SP2 VOL
 QC986-27D34-6M3TY-JJXP9-TBGMD
 
-### SP2 VOL	
 - C4FPJ-HQCGP-QD3XC-2JF34-FT8Y6
 - CH6BH-G7PCX-KTM8K-WRKBD-HC7TW
 - M4676-2VW7F-6BCVH-9QPBF-QBRBM
@@ -214,13 +235,10 @@ QC986-27D34-6M3TY-JJXP9-TBGMD
 - RBDC9-VTRC8-D7972-J97JY-PRVMG
 - R3MGD-3H6HQ-RDRCR-KJXTM-3C8JW
 
-### SP2 VOL
 R7Q3G-CHTW9-CCQV9-G7DX6-RVTDY
 
-### SP2 VOL
 DRYCH-Q9RY7-YH62D-K98QM-KCGQ8
 
-### SP2 VOL	
 - DQ3PG-2PTGJ-43FP2-RPRKB-QBYRY
 - DQ3PG-2PTGJ-43FP2-RPRKB-QBYRY
 - BXDQR-2KCR9-2VMJK-WDW94-PH2PB
@@ -230,10 +248,6 @@ DRYCH-Q9RY7-YH62D-K98QM-KCGQ8
 - DB8YF-HTGKP-6C948-3BHYD-PH2PB
 
 # Windows XP Home Edition x86
-These may work, but the following is recommended after installation:
-* Don't be connected to the internet until you do the following step.
-* Follow this video: https://www.youtube.com/watch?v=nTL2c6FSO68 (The person editing this assumes you have another device because GitHub probably doesn't work on XP)
-* Check activation again.
 
 - JT42G-DDBCX-WTDMB-8WCT2-JGGH8
 - V7BWD-G9YR6-9FG87-8Q2HV-YJGTG
@@ -245,14 +259,21 @@ These may work, but the following is recommended after installation:
 - MY7CJ-VQWBC-36JWH-6CJ37-TQVHC
 - XMCM6-DKYCQ-2BHQH-4PCHR-TBJCR
 
-**// What’s VOL and VLK //**
+# What's VOL and VLK?
 
-VOL (short for **V**olume Licensing for Organizations, AKA: VL), any Windows OS setup CD/DVD or image file with “VOL” word, that indicates it is one of the licensed Windows copies. And the most important point thing is – according to the regulations of VOL plans, VOL licensed products don’t need to activate at all.
+VOLs (short for **Vol**ume Licensing for Organizations, a.k.a., VL) are any Windows OS
+setup CD/DVD or image files containg the "VOL" accronym, indicating that it is one of the
+licensed Windows copies. According to
+the regulations of VOL plans, VOL licensed products don't need prior activation.
 
-VLK (short for **V**olume **L**icensing **K**ey) does refer to the product key required in the VOL edition’s deployment rather than the edition name. And it’s only suitable for VOL edition with the only effect – prove the product is legal, licensed under VOL.
+VLK (short for **V**olume **L**icensing **K**ey) refers to the product key
+required in the VOL edition's deployment rather than the edition name. These
+keys are only suitable for VOL editions, and with one effect–prove the product
+is legal and licensed under VOL.
 
-According to the license agreement, the product keys for retail edition of XP can only be used on one PC, but the ones for VOL edition can be supplied for more PCs to use. Second, there is another important difference, the retail edition of XP needs to activate, yet VOLs don’t have this concept totally. Last, VOL edition of XP doesn’t have the Home Edition, and its function is exactly the same with the Professional Edition.
-
-**// Prompts //**
-
-Before installing Windows XP, do not forget to record the serial numbers on a piece of paper or use your smartphone to shoot it down!
+According to the license agreement, the product keys for the retail editions of
+XP can only be used on one PC, but the ones for VOL editions can be supplied
+for any number of PCs for use. Second, retail edition of XP need activation,
+while VOL editions don't implement this concept. Last, VOL editions of XP don't
+have a Home Edition, and their function is exactly the same as a Professional
+Edition.

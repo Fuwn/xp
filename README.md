@@ -1,6 +1,6 @@
 ![Windows XP Logo](./assets/logo.png)
 
-Although Microsoft does not support Windows XP updates any more, I'm sure there
+Although Microsoft does not support Windows XP updates anymore, I'm sure there
 are still many users using it due to their personal habits or job demands.
 Therefore, XP's product keys may be necessary even now. Here lies the most
 comprehensive list of Windows XP product keys.

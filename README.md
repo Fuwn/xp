@@ -1,13 +1,8 @@
 ![Windows XP Logo](./assets/logo.png)
 
-Although Microsoft does not support Windows XP updates any more, I'm sure there
-are still many users using it due to their personal habits or job demands.
-Therefore, XP's product keys may be necessary even now. Here lies the most
-comprehensive list of Windows XP product keys.
+Although Microsoft does not support Windows XP updates any more, I'm sure there are still many users using it due to their personal habits or job demands. Therefore, XP's product keys may still be necessary. Here lies the most comprehensive list of Windows XP product keys.
 
-The following CD keys are official and original from Microsoft, mainly used for
-Windows XP Professional Service Pack 2/3 VOL/VLK system images, which are the
-easiest ones to find on the Internet.
+The following CD keys are official and original from Microsoft, primarily used for Windows XP Professional Service Pack 2/3 VOL/VLK system images, which are among the easiest to find on the Internet.
 
 ![Windows XP Setup](./assets/setup.jpg)
 
@@ -262,19 +257,8 @@ DRYCH-Q9RY7-YH62D-K98QM-KCGQ8
 
 # What's VOL and VLK?
 
-VOLs (short for **Vol**ume Licensing for Organizations, a.k.a., VL) are any Windows OS
-setup CD/DVD or image files containg the "VOL" accronym, indicating that it is one of the
-licensed Windows copies. According to
-the regulations of VOL plans, VOL licensed products don't need prior activation.
+VOLs (short for **Vol**ume Licensing for Organisations, also known as VL) are any Windows OS setup CD/DVD or image files containing the "VOL" acronym, indicating that they are licensed copies of Windows. According to the regulations of VOL plans, VOL-licensed products don't need prior activation.
 
-VLK (short for **V**olume **L**icensing **K**ey) refers to the product key
-required in the VOL edition's deployment rather than the edition name. These
-keys are only suitable for VOL editions, and with one effect–prove the product
-is legal and licensed under VOL.
+VLK (short for **V**olume **L**icensing **K**ey) refers to the product key required in the VOL edition's deployment rather than the edition name. These keys are only suitable for VOL editions and serve one purpose: to prove the product is legal and licensed under VOL.
 
-According to the license agreement, the product keys for the retail editions of
-XP can only be used on one PC, but the ones for VOL editions can be supplied
-for any number of PCs for use. Second, retail edition of XP need activation,
-while VOL editions don't implement this concept. Last, VOL editions of XP don't
-have a Home Edition, and their function is exactly the same as a Professional
-Edition.
+According to the license agreement, the product keys for the retail editions of XP can only be used on one PC; however, the ones for VOL editions can be supplied for any number of PCs for use. Second, retail editions of XP need activation, while VOL editions don't implement this concept. Lastly, VOL editions of XP don't have a Home Edition, and their function is identical to that of a Professional Edition.

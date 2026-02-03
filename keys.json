@@ -222,7 +222,7 @@
             "JKJIF-YUQEW-786DM-NBDSH-GUIRE",
             "TQ23P-98R87-89340-83QOI-WEJF8",
             "DFHNG-RGTFR-89T57-6983P-UROFD",
-            "SJHGL-IUWRT-89023-48HR4–U4938",
+            "SJHGL-IUWRT-89023-48HR4\u2013U4938",
             "WHTKJL-RDHF8-7TG64-5ES42-76RY4",
             "23YU7-65RK0-HEVJK-SDAGI-OP265"
           ]
@@ -259,7 +259,84 @@
             "DW3CF-D7KYR-KMR6C-3X7FX-T8CVM",
             "MQPD6-C748R-FMRV6-8C3QK-79THJ",
             "DTWB2-VX8WY-FG8R3-X696T-66Y46",
-            "DW87C-76RXP-LLK6C-3FJ2J-2908F"
+            "DW87C-76RXP-LLK6C-3FJ2J-2908F",
+            "WDGQX-WC2Y3-4R966-TK3H3-HXRB8",
+            "F6HQW-Q3799-9CJXR-9P3YD-6CJJ6",
+            "DPDQK-H94J9-TWMTR-K2K69-FRKHM",
+            "PXV3X-T8MP7-D3XFW-2327C-VPDQ8",
+            "BBY46-G888F-PKWW6-X4CVD-CGF43",
+            "QG4B8-96M7K-QB8PY-WH42C-KP6XJ",
+            "J2C8K-83GRM-269TM-RHW43-P7CDQ",
+            "JMD9T-8C93Q-MDPKT-X9HJX-B64RJ",
+            "M8DPF-XT324-YBKK9-3VF8C-M2X78",
+            "TFGK8-RQT7R-F6KW8-Q2X4M-YF2CX",
+            "P6Q8C-67D6P-X2PMX-M3372-RYY8F",
+            "8WDM6-H8HGX-4T27D-XQ2FT-TTQDV",
+            "TT6M7-RCMJK-RW433-PYDQR-2R8FD",
+            "FW2QC-KCT97-2XYFK-CF9G4-MG79Q",
+            "JHJ6R-BM2QW-YKW49-J7GYC-PPD2W",
+            "D86RX-TFGFT-GYXKM-3MQVX-43D73",
+            "TFFF4-QP8Y3-JQQ3R-4MRGP-7FVWM",
+            "QG6V8-DKTVK-24M6F-99M3Y-FQFTM",
+            "HRXTR-FKTCV-X8QCH-D7PTH-KYYPB",
+            "QJYBC-6GHC3-JVRHB-2DB4M-RKRJT",
+            "RD6W4-369DT-DMHQH-4RVKW-WY6PG",
+            "KCQ9Q-FTBM4-6HTWV-M7DKM-T4BFB",
+            "C82GJ-YH627-72GBT-R7XV7-M7Y4B",
+            "HBJTW-HJ9HH-WJ27D-FFWFF-2VBH8",
+            "K6C2K-KY62K-DQR84-RD4QV-QB74Q",
+            "YY8F2-3CKVQ-RKTRG-6JMDR-9DTG6"
+          ]
+        },
+        "sp1": {
+          "name": "SP1",
+          "keys": [
+            "RHKG3-8YW4W-4RHJG-83M4Y-7X9GW",
+            "QW4HD-DQCRG-HM64M-6GJRK-8K83T",
+            "PQTHM-RWBHR-3BPVW-TFB22-V8HXQ",
+            "KQC2B-X683R-2CDXT-PQ7HQ-47MPT",
+            "JFQYM-YJQFQ-VBRCY-4VV7W-QRXBY",
+            "KMTTB-68H32-8MKRK-GBHKT-RKCP6",
+            "CX7DD-4GX4Y-BTTR4-H88Y7-GQPWQ",
+            "YDYQ7-M37FK-JFFPV-QBPBB-44FDM"
+          ]
+        },
+        "dell_pro_oem": {
+          "name": "DELL Pro OEM",
+          "keys": [
+            "FCPYD-TTDDM-T2QBH-9J2P3-BT38Y",
+            "DFCQP-V3TCB-TVXC6-XQTTY-GVMJM",
+            "R7C49-9PCJJ-W9MJ7-3C6K2-KFWRD",
+            "KJF4F-BFB3M-6F2GY-R3RF4-JVPDD",
+            "R38FH-2WGPF-PFMPK-BFQ49-3BMJQ"
+          ]
+        },
+        "corporate": {
+          "name": "Corporate",
+          "keys": [
+            "MQPWW-PGVKX-YPMKG-8DH3G-KC8PW",
+            "WRX9H-CXFMF-9M9YB-YPJP6-3F3PH",
+            "TGRH7-K6QR3-RT6J4-V36FP-869HT",
+            "WM88F-2KP6H-324MQ-D3R9R-FF36W",
+            "KD399-6T6JT-7XT3M-VYY68-K77Y6",
+            "RYB3M-46BYP-C6YKF-P8J7W-XPKYW",
+            "RV63Y-TR649-WWJ7R-9Y8KV-PVVKJ",
+            "VPFCF-X3HP9-C69WX-4XM23-JPXPG",
+            "RBBPB-VBWYP-R87JB-MBQ4T-8GP96",
+            "Q8CWH-73232-WV7J3-Y2YRY-64B68"
+          ]
+        },
+        "home_dell_oem": {
+          "name": "Home DELL OEM",
+          "keys": [
+            "FP2TC-MJ2CP-32J8T-FP3BY-RW6K6"
+          ]
+        },
+        "home_sp2": {
+          "name": "Home SP2",
+          "keys": [
+            "J76RR-MY44M-VTJ9T-6PMWX-FH88T",
+            "WWWJR-BX7CV-P32X2-C7VT3-QD6BP"
           ]
         }
       }
@@ -320,7 +397,13 @@
             "VTYH4-P88R2-MW38B-Q62KT-48F7Y",
             "MY7CJ-VQWBC-36JWH-6CJ37-TQVHC",
             "XMCM6-DKYCQ-2BHQH-4PCHR-TBJCR",
-            "GQFP7-XCJ6K-GVQDY-BVMTK-V2JKY"
+            "GQFP7-XCJ6K-GVQDY-BVMTK-V2JKY",
+            "VRWXX-QM4XW-J6R3P-8FK3W-V64FT",
+            "KQXXH-YW4QM-B84W8-296FX-6XRDW",
+            "XJFG6-2GH83-87QQJ-33F4K-K7HBB",
+            "BQJG2-2MJT7-H7F6K-XW98B-4HQRQ",
+            "VQGJ8-4T8GB-83M2Y-GFBYX-T22MP",
+            "HBQ3Y-BHDWT-KQMDP-K3TXC-FX2WT"
           ]
         }
       }

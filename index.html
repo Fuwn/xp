@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>💻 Windows XP All Editions Universal Product Keys Collection</title>
+
+    <style>
+      body {
+        font-family:
+          -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+          sans-serif;
+        line-height: 1.6;
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 2rem;
+        color: #24292e;
+      }
+
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+
+      h1 {
+        border-bottom: 1px solid #eaecef;
+        padding-bottom: 0.3em;
+      }
+
+      h2 {
+        border-bottom: 1px solid #eaecef;
+        padding-bottom: 0.3em;
+      }
+
+      ul {
+        padding-left: 2em;
+      }
+
+      li {
+        font-family: monospace;
+      }
+
+      p {
+        margin: 1em 0;
+      }
+
+      #search {
+        width: 100%;
+        padding: 0.75rem;
+        font-size: 1rem;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        margin-bottom: 1.5rem;
+        box-sizing: border-box;
+      }
+
+      #search:focus {
+        outline: none;
+        border-color: #0366d6;
+        box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.1);
+      }
+
+      .no-results {
+        color: #666;
+        font-style: italic;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="content"></div>
+
+    <script type="module">
+      const markdownBoldToHtml = (text) =>
+        text.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+
+      const keysData = await fetch("./keys.json").then((response) =>
+        response.json(),
+      );
+      const { header, footer } = keysData.content;
+
+      const render = (searchQuery = "") => {
+        const normalizedQuery = searchQuery.toLowerCase().trim();
+
+        const textContainsQuery = (text) =>
+          normalizedQuery === "" ||
+          text.toLowerCase().includes(normalizedQuery);
+
+        const editionsMarkup = Object.values(keysData.editions)
+          .map((edition) => {
+            const editionNameMatchesQuery = textContainsQuery(edition.name);
+
+            const categoriesMarkup = Object.values(edition.categories)
+              .map((category) => {
+                const categoryNameMatchesQuery = textContainsQuery(
+                  category.name,
+                );
+                const matchingKeys = category.keys.filter(
+                  (key) =>
+                    textContainsQuery(key) ||
+                    categoryNameMatchesQuery ||
+                    editionNameMatchesQuery,
+                );
+
+                if (!matchingKeys.length) return "";
+
+                const categoryHeading =
+                  category.name !== "Default"
+                    ? `<h2>${category.name}</h2>`
+                    : "";
+                const keysListMarkup = `<ul>${matchingKeys.map((key) => `<li>${key}</li>`).join("")}</ul>`;
+
+                return categoryHeading + keysListMarkup;
+              })
+              .join("");
+
+            return categoriesMarkup
+              ? `<h1>${edition.name}</h1>${categoriesMarkup}`
+              : "";
+          })
+          .join("");
+
+        const noResultsMessage =
+          normalizedQuery && !editionsMarkup
+            ? `<p class="no-results">No keys found matching "${searchQuery}"</p>`
+            : "";
+
+        document.getElementById("content").innerHTML = `
+          <p><img src="${header.logo}" alt="Windows XP Logo"></p>
+          <p>${header.intro}</p>
+          <p>${header.description}</p>
+          <p><img src="${header.setup_image}" alt="Windows XP Setup"></p>
+          <input type="text" id="search" placeholder="Search keys or sections ..." value="${searchQuery}">
+          ${editionsMarkup}
+          ${noResultsMessage}
+          <h1>${footer.title}</h1>
+          <p>${markdownBoldToHtml(footer.vol_explanation)}</p>
+          <p>${markdownBoldToHtml(footer.vlk_explanation)}</p>
+          <p>${footer.license_info}</p>
+        `;
+
+        const searchInput = document.getElementById("search");
+
+        searchInput.addEventListener("input", (event) =>
+          render(event.target.value),
+        );
+        searchInput.focus();
+        searchInput.setSelectionRange(searchQuery.length, searchQuery.length);
+      };
+
+      render();
+    </script>
+  </body>
+</html>

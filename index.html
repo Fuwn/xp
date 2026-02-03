@@ -45,6 +45,11 @@
         margin: 1em 0;
       }
 
+      .repo-link {
+        font-size: 0.9rem;
+        color: #0366d6;
+      }
+
       #search {
         width: 100%;
         padding: 0.75rem;
@@ -128,6 +133,7 @@
 
         document.getElementById("content").innerHTML = `
           <p><img src="${header.logo}" alt="Windows XP Logo"></p>
+          <p class="repo-link"><a href="${keysData.meta.source}">View on GitHub</a></p>
           <p>${header.intro}</p>
           <p>${header.description}</p>
           <p><img src="${header.setup_image}" alt="Windows XP Setup"></p>

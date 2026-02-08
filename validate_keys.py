@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import argparse
 import hashlib
 import json
 import os
@@ -182,10 +183,50 @@ def generate_report(results):
     return "\n".join(lines) + "\n"
 
 
+def remove_invalid_keys(keys_file, results):
+    invalid_keys = {entry["key"] for entry in results["invalid_format"]} | {
+        entry["key"] for entry in results["invalid_signature"]
+    }
+
+    with open(keys_file, "r") as file:
+        data = json.load(file)
+
+    removed = 0
+
+    for edition in data["editions"].values():
+        for category in edition["categories"].values():
+            original_count = len(category["keys"])
+            category["keys"] = [
+                key for key in category["keys"] if key not in invalid_keys
+            ]
+            removed += original_count - len(category["keys"])
+
+    with open(keys_file, "w") as file:
+        json.dump(data, file, indent=2, ensure_ascii=False)
+        file.write("\n")
+
+    return removed
+
+
 if __name__ == "__main__":
-    report = generate_report(validate_keys())
+    parser = argparse.ArgumentParser(description="Validate Windows XP product keys")
+
+    parser.add_argument(
+        "--clean",
+        action="store_true",
+        help="remove invalid keys from keys.json",
+    )
+
+    arguments = parser.parse_args()
+    results = validate_keys()
+    report = generate_report(results)
 
     with open("report.md", "w") as file:
         file.write(report)
 
     print("Generated report.md")
+
+    if arguments.clean:
+        removed = remove_invalid_keys("keys.json", results)
+
+        print(f"Removed {removed} invalid keys from keys.json")

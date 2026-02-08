@@ -21,10 +21,16 @@ def generate_readme(keys_file="keys.json"):
     lines.append("")
 
     for edition in data["editions"].values():
+        if not any(category["keys"] for category in edition["categories"].values()):
+            continue
+
         lines.append(f"# {edition['name']}")
         lines.append("")
 
         for category in edition["categories"].values():
+            if not category["keys"]:
+                continue
+
             if category["name"] != "Default":
                 lines.append(f"## {category['name']}")
                 lines.append("")

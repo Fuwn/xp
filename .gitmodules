@@ -1,0 +1,4 @@
+[submodule "umskt"]
+	path = umskt
+	url = https://github.com/techguy16/umsktpy.git
+	ignore = dirty
